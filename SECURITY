@@ -1,0 +1,44 @@
+---
+
+```yaml
+# CITATION.cff
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite it as below."
+title: "GCB Canon Core (gcb-canon-core)"
+type: dataset
+authors:
+  - family-names: "Goldston"
+    given-names: "Justin"
+    name-particle: ""
+    name-suffix: "PhD"
+repository-code: "https://github.com/GoldstonianConcordanceBible/gcb-canon-core"
+url: "https://github.com/GoldstonianConcordanceBible/gcb-canon-core"
+abstract: >
+  Goldstonian Concordance Bible (GCB) Canon Core: a versioned, citable, agent-readable canon dataset
+  with schemas and specifications for structured claims, citations, entities, and verse references.
+keywords:
+  - "concordance"
+  - "dataset"
+  - "knowledge graph"
+  - "JSON-LD"
+  - "RDF"
+  - "MCP"
+  - "AI governance"
+license: "CC-BY-4.0"
+version: "1.0.0"
+date-released: "2026-02-15"
+identifiers:
+  - type: "other"
+    value: "E68E27Y72FHTJH1MycB6KjX5PQAyKPYsRGZjMEx9pump"
+    description: "Onchain provenance identifier (non-financial; contribution-only positioning)"
+preferred-citation:
+  type: dataset
+  title: "GCB Canon Core (gcb-canon-core)"
+  authors:
+    - family-names: "Goldston"
+      given-names: "Justin"
+      name-suffix: "PhD"
+  year: 2026
+  version: "1.0.0"
+  repository-code: "https://github.com/GoldstonianConcordanceBible/gcb-canon-core"
+  license: "CC-BY-4.0"
